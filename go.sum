@@ -1,2 +1,4 @@
-golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd h1:O7DYs+zxREGLKzKoMQrtrEacpb0ZVXA5rIwylE2Xchk=
-golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd/go.mod h1:CfG3xpIq0wQ8r1q4Su4UZFWDARRcnwPjda9FqA0JpMk=
+github.com/jukanntenn/gopl-exercises v0.0.0-20220604071040-5c736bab27c7 h1:WqC+1QoGs7eUyBjJpXr9l2FYf03gwoC6glU6tepT9Qo=
+github.com/jukanntenn/gopl-exercises v0.0.0-20220604071040-5c736bab27c7/go.mod h1:vdbr6pSYqoOmSRnzfTFdx0djs+Eo57SlIzaowLMghs0=
+golang.org/x/net v0.40.0 h1:79Xs7wF06Gbdcg4kdCCIQArK11Z1hr5POQ6+fIYHNuY=
+golang.org/x/net v0.40.0/go.mod h1:y0hY0exeL2Pku80/zKK7tpntoX23cqL3Oa6njdgRtds=

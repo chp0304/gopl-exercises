@@ -15,7 +15,7 @@ func main() {
 	http.HandleFunc("/create", db.create)
 	http.HandleFunc("/update", db.update)
 	http.HandleFunc("/delete", db.delete)
-	log.Fatal(http.ListenAndServe("localhost:8000", nil))
+	log.Fatal(http.ListenAndServe("localhost:8080", nil))
 }
 
 type dollars float32
