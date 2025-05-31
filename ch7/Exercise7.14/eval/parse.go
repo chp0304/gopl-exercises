@@ -116,9 +116,9 @@ func parseUnary(lex *lexer) Expr {
 		return unary{op, parseUnary(lex)}
 	}
 	primary := parsePrimary(lex)
-	if lex.token == '!' {
+	for lex.token == '!' {
 		lex.next()
-		return unaryR{
+		primary = unaryR{
 			op: '!',
 			x:  primary,
 		}

@@ -29,6 +29,7 @@ func TestEval(t *testing.T) {
 		{"2 + sin(0)!", Env{}, "3"},
 		{"sin(x)! + 2", Env{"x": 0}, "3"},
 		{"2 + sin(x)!", Env{"x": 0}, "3"},
+		{"3!!", Env{"x": 0}, "720"},
 
 		//!+Eval
 	}
