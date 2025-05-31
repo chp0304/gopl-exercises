@@ -78,6 +78,18 @@ func Parse(input string) (_ Expr, err error) {
 	return e, nil
 }
 
+func ParseAndCheck(input string, vars map[Var]bool) (Expr, error) {
+	expr, err := Parse(input)
+	if err != nil {
+		return nil, err
+	}
+	err = expr.Check(vars)
+	if err != nil {
+		return nil, err
+	}
+	return expr, nil
+}
+
 func parseExpr(lex *lexer) Expr { return parseBinary(lex, 1) }
 
 // binary = unary ('+' binary)*
