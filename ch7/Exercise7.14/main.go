@@ -7,9 +7,9 @@ import (
 )
 
 func main() {
-	expr := "sin(x) + 2!"
+	expr := "x1 + 1"
 	env := eval.Env{
-		eval.Var("x"): 3.1415926,
+		eval.Var("x1"): 1,
 	}
 	exp, err := eval.Parse(expr)
 	fmt.Printf("expr = %s\n", exp)

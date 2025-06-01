@@ -1,0 +1,51 @@
+1
+[{div []} {div []} {h2 []}]
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[head] h2[] 
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[] h2[] 
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[] h2[] 
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[toc] h2[] 
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[body] div[div1] h2[] 
+1 Introduction
+1 Introduction
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[body] div[div1] h2[] 
+2 Documents
+2 Documents
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[body] div[div1] h2[] 
+3 Logical Structures
+3 Logical Structures
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[body] div[div1] h2[] 
+4 Physical Structures
+4 Physical Structures
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[body] div[div1] h2[] 
+5 Conformance
+5 Conformance
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[body] div[div1] h2[] 
+6 Notation
+6 Notation
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[back] div[div1] h2[] 
+A References
+A References
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[back] div[div1] h2[] 
+B Definitions for Character Normalization
+B Definitions for Character Normalization
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[back] div[div1] h2[] 
+C Expansion of Entity and Character References (Non-Normative)
+C Expansion of Entity and Character References (Non-Normative)
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[back] div[div1] h2[] 
+D Deterministic Content Models (Non-Normative)
+D Deterministic Content Models (Non-Normative)
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[back] div[div1] h2[] 
+E Autodetection of Character Encodings (Non-Normative)
+E Autodetection of Character Encodings (Non-Normative)
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[back] div[div1] h2[] 
+F W3C XML Working Group (Non-Normative)
+F W3C XML Working Group (Non-Normative)
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[back] div[div1] h2[] 
+G W3C XML Core Working Group (Non-Normative)
+G W3C XML Core Working Group (Non-Normative)
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[back] div[div1] h2[] 
+H Production Notes (Non-Normative)
+H Production Notes (Non-Normative)
+html[en,en,http://www.w3.org/1999/xhtml] body[] div[back] div[div1] h2[] 
+I Suggestions for XML Names (Non-Normative)
+I Suggestions for XML Names (Non-Normative)
